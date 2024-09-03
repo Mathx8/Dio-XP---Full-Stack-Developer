@@ -24,6 +24,132 @@
 //string a = inteiro.ToString();
 
 //double a = 4/2+2;
-double a = 4/(2+2);
+//double a = 4/(2+2);
+//Console.WriteLine(a);
 
-Console.WriteLine(a);
+/* IF aninhado
+int quantidadeEmEstoque = 3;
+
+int quantidadeCompra = 0;
+
+bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+Console.WriteLine($"É possivel realizar a venda? : {possivelVenda}");
+
+if (quantidadeCompra == 0)
+{
+    Console.WriteLine("Venda inválida.");
+}
+else if (possivelVenda)
+{
+    Console.WriteLine("Venda realizada.");
+}
+else
+{
+    Console.WriteLine("Não temos a quantidade desejada em estoque.");
+}
+*/
+
+
+
+// Switch Case
+/*
+Console.WriteLine("Digite uma letra: ");
+string letra = Console.ReadLine();
+
+switch (letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+
+    default:
+        System.Console.WriteLine("Não é uma Vogal");
+        break;
+}
+*/
+
+// Se fosse com IF
+/*
+if (letra == "a")
+{
+    Console.WriteLine("Vogal!");
+}
+else if (letra == "e")
+{
+    Console.WriteLine("Vogal!");
+}
+else if (letra == "i")
+{
+    Console.WriteLine("Vogal!");
+}
+else if (letra == "o")
+{
+    Console.WriteLine("Vogal!");
+}
+else if (letra == "u")
+{
+    Console.WriteLine("Vogal!");
+}
+else
+{
+    Console.WriteLine("Não é uma Vogal.");
+}
+*/
+
+
+
+// OR ||
+/*
+bool maiorDeIdade = true;
+
+bool autorizacaoResponsavel = false;
+
+if (maiorDeIdade || autorizacaoResponsavel)
+{
+    Console.WriteLine("Entrada Liberada!");
+}
+else
+{
+    Console.WriteLine("Entrada Bloqueada!");
+}
+*/
+
+
+
+// AND &&
+/*
+bool presencaMinima = true;
+double media = 6.5;
+
+if (presencaMinima && media >= 7)
+{
+    Console.WriteLine("Aprovado");
+}
+else
+{
+    Console.WriteLine("Reprovado");
+}
+*/
+
+
+
+// NOT !
+
+bool choveu = false;
+bool tarde = false;
+
+if (!choveu && !tarde)
+{
+    Console.WriteLine("Vou pedalar!");
+}
+else
+{
+    Console.WriteLine("Vou pedalar outro dia.");
+}
