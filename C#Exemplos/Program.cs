@@ -1,4 +1,4 @@
-﻿//using C_Exemplos.Models;
+﻿using C_Exemplos.Models;
 
 //Pessoa pessoa1 = new Pessoa();
 
@@ -141,7 +141,7 @@ else
 
 
 // NOT !
-
+/*
 bool choveu = false;
 bool tarde = false;
 
@@ -152,4 +152,53 @@ if (!choveu && !tarde)
 else
 {
     Console.WriteLine("Vou pedalar outro dia.");
+}
+*/
+
+
+
+// Calculadora
+
+Calculadora calc = new Calculadora();
+/*
+calc.Somar(10, 30);
+calc.Subtrair(10, 50);
+calc.Multiplicar(15, 45);
+calc.Dividir(2, 2);
+calc.Potencia(3, 3);
+
+calc.Seno(30);
+calc.Coseno(30);
+calc.Tangente(30);
+
+calc.RaizQuadrada(9);
+*/
+
+
+
+// Incremento e Decremento
+/*
+int numeroIncremento = 10;
+Console.WriteLine(numeroIncremento);
+Console.WriteLine("Incrimentando o 10");
+//numero = numero+1;
+numeroIncremento++;
+Console.WriteLine(numeroIncremento);
+
+int numeroDecremento = 20;
+Console.WriteLine("Decrementando o 20");
+//numero = numero-1;
+numeroDecremento--;
+Console.WriteLine(numeroDecremento);
+*/
+
+
+
+// FOR
+
+int numero = 5;
+
+for (int contador = 0; contador <= 10; contador++)
+{
+    Console.WriteLine($"{numero} x {contador} = {numero*contador}");
 }
