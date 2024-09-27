@@ -1,5 +1,0 @@
-C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFudamentos\obj\Debug\net8.0\C#Exemplos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFudamentos\obj\Debug\net8.0\C#Exemplos.AssemblyInfoInputs.cache
-C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFudamentos\obj\Debug\net8.0\C#Exemplos.AssemblyInfo.cs
-C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFudamentos\obj\Debug\net8.0\C#Exemplos.csproj.CoreCompileInputs.cache
-C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFudamentos\obj\Debug\net8.0\C#Exemplos.sourcelink.json
