@@ -7,7 +7,7 @@ namespace C_Exemplos.Models
 {
     public class Pessoa
     {
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
         public int Idade { get; set; }
 
         public void Apresentar()

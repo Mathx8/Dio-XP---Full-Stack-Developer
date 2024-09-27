@@ -1,0 +1,30 @@
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\bin\Debug\net8.0\C#Exemplos.exe
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\bin\Debug\net8.0\C#Exemplos.deps.json
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\bin\Debug\net8.0\C#Exemplos.runtimeconfig.json
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\bin\Debug\net8.0\C#Exemplos.dll
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\bin\Debug\net8.0\C#Exemplos.pdb
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\C#Exemplos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\C#Exemplos.AssemblyInfoInputs.cache
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\C#Exemplos.AssemblyInfo.cs
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\C#Exemplos.csproj.CoreCompileInputs.cache
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\C#Exemplos.sourcelink.json
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\C#Exemplos.dll
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\refint\C#Exemplos.dll
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\C#Exemplos.pdb
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\C#Exemplos.genruntimeconfig.cache
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\obj\Debug\net8.0\ref\C#Exemplos.dll
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\bin\Debug\net8.0\C#Exemplos.exe
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\bin\Debug\net8.0\C#Exemplos.deps.json
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\bin\Debug\net8.0\C#Exemplos.runtimeconfig.json
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\bin\Debug\net8.0\C#Exemplos.dll
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\bin\Debug\net8.0\C#Exemplos.pdb
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\C#Exemplos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\C#Exemplos.AssemblyInfoInputs.cache
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\C#Exemplos.AssemblyInfo.cs
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\C#Exemplos.csproj.CoreCompileInputs.cache
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\C#Exemplos.sourcelink.json
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\C#Exemplos.dll
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\refint\C#Exemplos.dll
+c:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\C#Exemplos.pdb
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\C#Exemplos.genruntimeconfig.cache
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos - Backup\obj\Debug\net8.0\ref\C#Exemplos.dll

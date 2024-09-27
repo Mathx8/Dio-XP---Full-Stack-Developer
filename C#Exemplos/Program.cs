@@ -1,11 +1,11 @@
-﻿using C_Exemplos.Models;
+﻿using ExemplosFundamentos.Common.Models;
+/*
+Pessoa pessoa1 = new Pessoa();
 
-//Pessoa pessoa1 = new Pessoa();
-
-//pessoa1.Nome = "Buta";
-//pessoa1.Idade = 26;
-//pessoa1.Apresentar();
-
+pessoa1.Nome = "Buta";
+pessoa1.Idade = 26;
+pessoa1.Apresentar();
+*/ 
 // string apresentacaoo = "Olá, seja bem vindo";
 // int quantidade = 1;
 // double altura = 1.80;
@@ -158,9 +158,9 @@ else
 
 
 // Calculadora
-
-Calculadora calc = new Calculadora();
 /*
+Calculadora calc = new Calculadora();
+
 calc.Somar(10, 30);
 calc.Subtrair(10, 50);
 calc.Multiplicar(15, 45);
@@ -237,8 +237,8 @@ Console.WriteLine($"Total da soma dos números digitados é {soma}");
 
 
 
-//
-
+// Menu Interativo
+/*
 string opcao;
 bool exibirMenu = true;
 
@@ -279,3 +279,11 @@ while (exibirMenu)
 }
 
 Console.WriteLine("Menu encerrado");
+*/
+
+
+
+int[] arrayInteiros = new int[3];
+arrayInteiros[0] = 72;
+arrayInteiros[1] = 64;
+arrayInteiros[2] = 50;

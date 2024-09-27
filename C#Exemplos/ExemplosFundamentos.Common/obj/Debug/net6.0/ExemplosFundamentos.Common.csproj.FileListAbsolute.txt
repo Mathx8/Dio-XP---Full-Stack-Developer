@@ -1,0 +1,12 @@
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\bin\Debug\net6.0\ExemplosFundamentos.Common.deps.json
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\bin\Debug\net6.0\ExemplosFundamentos.Common.dll
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\bin\Debug\net6.0\ExemplosFundamentos.Common.pdb
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.AssemblyInfoInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.AssemblyInfo.cs
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.sourcelink.json
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.dll
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\refint\ExemplosFundamentos.Common.dll
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\ExemplosFundamentos.Common.pdb
+C:\Dio\Dio XP - Full Stack Developer\C#Exemplos\ExemplosFundamentos.Common\obj\Debug\net6.0\ref\ExemplosFundamentos.Common.dll
