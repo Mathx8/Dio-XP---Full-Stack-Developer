@@ -1,0 +1,15 @@
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.sourcelink.json
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+C:\Dio\Dio XP - Full Stack Developer\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
