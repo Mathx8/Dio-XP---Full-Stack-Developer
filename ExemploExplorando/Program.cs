@@ -134,6 +134,7 @@ foreach (int item in pilha)
 }
 */
 
+/*
 // Dicionario
 Dictionary<string, string> estados = new Dictionary<string, string>();
 
@@ -166,3 +167,63 @@ else
 {
     System.Console.WriteLine($"Valor não existe, é seguro adicionar a chave: {chave}");
 }
+*/
+
+/*
+// Tupla
+(int ID, string Nome, string Sobrenome, decimal Altura) tupla = (1, "Leonardo", "Buta", 10.5M);
+
+//ValueTuple<int, string, string, decimal> outroExemploTupla = (1, "Leonardo", "Buta", 10.5M);
+//var outroExemploTuplaCreate = Tuple.Create(1, "Leonardo", "Buta", 10.5M);
+
+Console.WriteLine($"ID: {tupla.ID}");
+Console.WriteLine($"Nome: {tupla.Nome}");
+Console.WriteLine($"Sobrenome: {tupla.Sobrenome}");
+Console.WriteLine($"Altura: {tupla.Altura}");
+*/
+
+/*
+LeituraArquivo arquivo = new LeituraArquivo();
+
+var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+if (sucesso)
+{
+    // Console.WriteLine("Quantidade linhas do arquivo: " + quantidadeLinhas);
+    foreach (string linha in linhasArquivo)
+    {
+        Console.WriteLine(linha);
+    }
+}
+else
+{
+    Console.WriteLine("Não foi possível ler o arquivo");
+}
+*/
+
+/*
+Pessoa p1 = new Pessoa("Leonardo", "Buta");
+
+(string nome, string sobrenome) = p1;
+
+Console.WriteLine($"{nome} {sobrenome}");
+*/
+
+int numero = 10;
+bool ehPar = false;
+
+// IF Ternário
+ehPar = numero % 2 == 0;
+
+Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
+
+/*
+if (numero % 2 == 0)
+{
+    Console.WriteLine($"O número {numero} é par");
+}
+else
+{
+    Console.WriteLine($"O número {numero} é impar");
+}
+*/
