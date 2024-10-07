@@ -1,5 +1,6 @@
 ﻿using System.Globalization;
 using ExemploExplorando.Models;
+using Newtonsoft.Json;
 
 /*
 Pessoa p1 = new Pessoa();
@@ -209,6 +210,7 @@ Pessoa p1 = new Pessoa("Leonardo", "Buta");
 Console.WriteLine($"{nome} {sobrenome}");
 */
 
+/*
 int numero = 10;
 bool ehPar = false;
 
@@ -217,7 +219,7 @@ ehPar = numero % 2 == 0;
 
 Console.WriteLine($"O número {numero} é " + (ehPar ? "par" : "ímpar"));
 
-/*
+// Jeito maior
 if (numero % 2 == 0)
 {
     Console.WriteLine($"O número {numero} é par");
@@ -227,3 +229,34 @@ else
     Console.WriteLine($"O número {numero} é impar");
 }
 */
+
+// Serializar
+/*
+DateTime dataAtual = DateTime.Now;
+
+List<Venda> listaVendas = new List<Venda>();
+
+Venda v1 = new Venda(1, "Material de escritório", 25.00M, dataAtual);
+Venda v2 = new Venda(2, "Licença de Software", 110.00M, dataAtual);
+
+listaVendas.Add(v1);
+listaVendas.Add(v2);
+
+string serializado = JsonConvert.SerializeObject(listaVendas, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json", serializado);
+
+Console.WriteLine(serializado);
+
+// Apaguei a classe vendas
+*/
+
+// Deserializar
+string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+foreach (Venda venda in listaVenda)
+{
+    Console.WriteLine($"ID: {venda.Id}, Produto: {venda.Produto} - Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+}
