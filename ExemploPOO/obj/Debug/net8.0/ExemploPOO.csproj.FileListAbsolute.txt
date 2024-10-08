@@ -1,0 +1,15 @@
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\bin\Debug\net8.0\ExemploPOO.exe
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\bin\Debug\net8.0\ExemploPOO.deps.json
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\bin\Debug\net8.0\ExemploPOO.runtimeconfig.json
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\bin\Debug\net8.0\ExemploPOO.dll
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\bin\Debug\net8.0\ExemploPOO.pdb
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ExemploPOO.AssemblyInfo.cs
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ExemploPOO.sourcelink.json
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ExemploPOO.dll
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
+C:\Dio\Dio XP - Full Stack Developer\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll
