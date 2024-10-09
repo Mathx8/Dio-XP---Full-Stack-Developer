@@ -1,0 +1,15 @@
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\bin\Debug\net8.0\SistemaCelular.exe
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\bin\Debug\net8.0\SistemaCelular.deps.json
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\bin\Debug\net8.0\SistemaCelular.runtimeconfig.json
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\bin\Debug\net8.0\SistemaCelular.dll
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\bin\Debug\net8.0\SistemaCelular.pdb
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\SistemaCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\SistemaCelular.AssemblyInfoInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\SistemaCelular.AssemblyInfo.cs
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\SistemaCelular.csproj.CoreCompileInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\SistemaCelular.sourcelink.json
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\SistemaCelular.dll
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\refint\SistemaCelular.dll
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\SistemaCelular.pdb
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\SistemaCelular.genruntimeconfig.cache
+C:\Dio\Dio XP - Full Stack Developer\SistemaCelular\obj\Debug\net8.0\ref\SistemaCelular.dll
