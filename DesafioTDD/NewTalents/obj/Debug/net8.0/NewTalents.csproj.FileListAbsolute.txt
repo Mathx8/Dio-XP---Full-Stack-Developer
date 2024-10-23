@@ -1,0 +1,15 @@
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\NewTalents.sourcelink.json
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Dio\Dio XP - Full Stack Developer\DesafioTDD\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
