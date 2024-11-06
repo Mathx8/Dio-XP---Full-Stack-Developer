@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 
 import logo from '../../assets/logo-dio.png'
 import { Button } from '../Button';
+import { IHeader } from './types';
 
 import {
     BuscarInputContainer,
@@ -15,7 +16,7 @@ import {
     Wrapper
 } from './styles';
 
-const Header = ({autenticado}) => {
+const Header = ({autenticado}: IHeader) => {
 
   const navigate = useNavigate();
 
@@ -44,7 +45,7 @@ const Header = ({autenticado}) => {
             </Row>
             <Row>
               {autenticado ? (
-                <UserPicture src="https://avatars.githubusercontent.com/u/45184516?v=4"/>
+                <UserPicture src="https://avatars.githubusercontent.com/u/168006920?v=4&size=64"/>
               ) : (
               <>
                 <MenuRight href="/">Home</MenuRight>
